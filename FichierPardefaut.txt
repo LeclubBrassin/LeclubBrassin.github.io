@@ -1,0 +1,25 @@
+Default index file names : parfoid on se retrouve sur le readm sinon
+Our Web servers look for index files in this order:
+
+index.html
+index.htm
+index.shtml
+index.php
+index.php5
+index.php4
+index.php3
+index.cgi
+default.html
+default.htm
+home.html
+home.htm
+Index.html
+Index.htm
+Index.shtml
+Index.php
+Index.cgi
+Default.html
+Default.htm
+Home.html
+Home.htm
+placeholder.html
