@@ -23,3 +23,11 @@ Default.htm
 Home.html
 Home.htm
 placeholder.html
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+les video sont en content="https://www.youtube.com/embed/-IY8QTdNIeU" 
+
+embed car youtube n'autorise pas donc il faut ctrl-U puis recupere le lien Embed 
